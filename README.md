@@ -14,11 +14,11 @@ It connects people through these personalized tutorials and advice, giving them 
 
 ## The context  💡
 
-This project is our final portfolio project, concluding our Foundations year at  **Holberton School**. We were able to choose who we wanted to work with and what we wanted to work on, during about three weeks of development, we were able to create, implement, program our project, this helped us to discover and see in action all the potential of ourselves and our team, we put to the test the knowledge obtained during the first year, our tenacity, discipline, imagination, creativity and what we are capable of as programmers and as people.
+This project is my final portfolio project, concluding my Foundations year at  **ALX SOFTWARE ENGINEERING**. I was able to choose what I wanted to work with and what I wanted to work on, during about three weeks of development, I was able to create, implement, program my project, this helped me to discover and see in action all the potential of myself, I put to the test the knowledge obtained during the first year, my tenacity, discipline, imagination, creativity and what I am capable of as programmers and as people.
 
-We put a little bit of ourselves into this project so that it can help many people, just as Holberton and learning programming helped us.  ♥️
+I put a little bit of ourselves into this project so that it can help many people, just as ALX and learning programming helped us.  ♥️
 
-Here we tell you a little more about what we experienced in this adventure by creating Educatech.
+Here I tell you a little more about what we experienced in this adventure by creating Educatech.
 
 ##  Technology :floppy_disk:
 
