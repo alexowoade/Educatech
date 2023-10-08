@@ -7,10 +7,10 @@
 
 In the world of technology we are in constant learning, many of us have dealt with the fact of being stuck with some particular subject and on the Internet we only find extensive texts or a thousand and one video tutorials explaining for hours that subject which is so difficult for us, how many times have we needed someone who in real time explains and guides us in these circumstances, we believe that most of the time we would like to have the possibility of having a personalized advice in this way and that is why we thought of creating Educatech.
 
-Our platform is aimed at technology-related topics and communities, for example, programming basics and fundamentals, software and hardware that allow the user to have a more interactive and personalized advice, communicate with a "teacher" through a chat or video call to facilitate contact, which is a plus in our product.
+The platform is aimed at technology-related topics and communities, for example, programming basics and fundamentals, software and hardware that allow the user to have a more interactive and personalized advice, communicate with a "teacher" through a chat or video call to facilitate contact, which is a plus in our product.
 
 
-We connect people through these personalized tutorials and advice, giving them the opportunity to improve and discover their skills in a collaborative community to make their way in the world of technology.
+It connects people through these personalized tutorials and advice, giving them the opportunity to improve and discover their skills in a collaborative community to make their way in the world of technology.
 
 ## The context  💡
 
