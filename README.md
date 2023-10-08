@@ -18,8 +18,6 @@ This project is our final portfolio project, concluding our Foundations year at 
 
 We put a little bit of ourselves into this project so that it can help many people, just as Holberton and learning programming helped us.  ♥️
 
-## Blog post :pencil:
-
 Here we tell you a little more about what we experienced in this adventure by creating Educatech.
 
 ##  Technology :floppy_disk:
