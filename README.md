@@ -28,9 +28,9 @@ Here we tell you a little more about what we experienced in this adventure by cr
 
 <p align="center"><img src="images/arq.PNG" width="700"></p>
 
-The architecture in our web page is when the user enters our web page, it will validate that the domain is stored in the DNS servers and it will return an IPV4 so that it redirects to the server where our information is stored but the user can only see the Front End (HTML, CSS, JS [jQuery] ) and Bootstrap as css framework.
+The architecture in the web page is when the user enters the web page, it will validate that the domain is stored in the DNS servers and it will return an IPV4 so that it redirects to the server where  information is stored but the user can only see the Front End (HTML, CSS, JS [jQuery] ) and Bootstrap as css framework.
 
-Our page will take into account 2 types of users students and teachers, to use this service you need a user account. This information goes to our server and is stored in the database (Postgres), we used EC2 Instance contents AWS(Amazon Web Services) is a software platform that allows you to create, test and deploy applications quickly, Nginx as a web server that is when a user makes the request for access to a page, will be used as a web framework Django that allows easy integration with the database and APIs, Firewall that serves as security and restrict access to our server and monitoring for review of information in real-time and gunicorn for Deploy our project is a [Python](https://en.wikipedia.org/wiki/Python_(programming_language))  [Web Server Gateway Interface](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface) (WSGI) [HTTP server](https://en.wikipedia.org/wiki/Web_server) and the Gunicorn server is broadly compatible with Django Python web framework , simply implemented, light on server resources and fairly fast.
+page will take into account 2 types of users students and teachers, to use this service you need a user account. This information goes to the server and is stored in the database (Postgres), I used EC2 Instance contents AWS(Amazon Web Services) is a software platform that allows you to create, test and deploy applications quickly, Nginx as a web server that is when a user makes the request for access to a page, will be used as a web framework Django that allows easy integration with the database and APIs, Firewall that serves as security and restrict access to our server and monitoring for review of information in real-time and gunicorn for Deploy our project is a [Python](https://en.wikipedia.org/wiki/Python_(programming_language))  [Web Server Gateway Interface](https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface) (WSGI) [HTTP server](https://en.wikipedia.org/wiki/Web_server) and the Gunicorn server is broadly compatible with Django Python web framework , simply implemented, light on server resources and fairly fast.
 
 If all goes well, the idea is to link students and teachers, so that they can communicate using our servers and carry out their activities.
 
@@ -181,27 +181,7 @@ Here you can find the link of the [landing page](https://educatech-landpage.bss.
 
 ## Contributing :raised_hands:
 
-We believe in the power of learning and sharing it, if you want to contribute to this project, feel free to make a pull-request to help us improve or implement any feature.
+I believe in the power of learning and sharing it, if you want to contribute to this project, feel free to make a pull-request to help us improve or implement any feature.
 
-## Authors :smiley::computer:
-* Juan Carlos López
+[Github](https://github.com/alexowoade - [Twitter](https://twitter.com/akinjidebose1)
 
-[Github](https://github.com/Juan-Bogota) - [Twitter](https://twitter.com/jclopez100) - [Linkedin](https://www.linkedin.com/in/juan-carlos-lopez-50698369/) 
-
-1213@holbertonschool.com
-
-* Marcela Sánchez
-
-[Github](https://github.com/marcewp15) - [Twitter](https://twitter.com/MarceWp15) - [Linkedin](https://www.linkedin.com/in/lady-marcela-s%C3%A1nchez-moreno-277922184/) 
-
-970@holbertonschool.com
-
-* Sergio Quiroga 
-
-[Github](https://github.com/Sergioq7777) - [Twitter](https://twitter.com/sergioq7777) - [Linkedin](https://www.linkedin.com/in/sergio-andr%C3%A9s-quiroga-monroy-49255317b/) 
-
-1230@holbertonschool.com
-
-
-## License :pushpin:
-[MIT License](https://github.com/Juan-Bogota/Educatech/blob/master/LICENSE)
