@@ -22,10 +22,6 @@ We put a little bit of ourselves into this project so that it can help many peop
 
 Here we tell you a little more about what we experienced in this adventure by creating Educatech.
 
-* Juan Lopez's blog: [Click me](https://medium.com/@jclopez100/education-without-limits-88842dc7b996)
-* Marcela Sánchez's blog:
-* Sergio Quiroga's blog:
-
 ##  Technology :floppy_disk:
 
 <p align="center"><img src="images/Technology.jpg" width="700"></p>
